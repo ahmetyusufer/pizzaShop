@@ -15,7 +15,7 @@ function Header() {
       {/* Logo veya Başlık */}
       <Link to="/">
         <h2 className="text-sm font-bold uppercase tracking-wider text-gray-800 transition duration-300 hover:text-gray-900 sm:text-lg">
-          Fast React Pizza CO.
+          Pizza CO.
         </h2>
       </Link>
 
