@@ -1,4 +1,6 @@
-# React Pizza
+![Promotional image](src/assets/pizzaShop.png)
+
+# PizzaShop
 
 React Pizza, kullanıcıların çevrimiçi olarak pizza siparişi verebileceği modern bir web uygulamasıdır. Proje, React ve Vite kullanılarak geliştirilmiş olup, state yönetimi için Redux Toolkit, yönlendirme için React Router ve stilleme için TailwindCSS kullanmaktadır.
 
