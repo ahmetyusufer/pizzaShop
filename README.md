@@ -4,7 +4,7 @@
 
 PizzaShop, kullanıcıların çevrimiçi olarak pizza siparişi verebileceği modern bir web uygulamasıdır. Proje, React ve Vite kullanılarak geliştirilmiş olup, state yönetimi için Redux Toolkit, yönlendirme için React Router ve stilleme için TailwindCSS kullanmaktadır.
 
-## Proje Demosu: [Demo Linki](https://ahmetyusufer-pizza.netlify.app)
+## Proje Demosu: [Demo Linki](https://movielog.ahmetyusuferten.com/)
 
 ## Özellikler
 - 🍕 Pizza çeşitlerini listeleme
